@@ -127,10 +127,13 @@ The **Binary-to-Hexadecimal Game** is an engaging, interactive two-player game d
 
 ---
 
-## Acknowledgments
+## Additional Notes
 
-- Project developed as part of the **ENEL 384 Design Lab**.
-- Special thanks to the **University of Regina ENSE Labs** for guidance and resources.
+- **Troubleshooting**:
+  - If the 7-segment display doesn't function correctly, double-check the clock divider and pin mappings.
+  - Ensure the FPGA board is powered and configured correctly.
+- **Learning Opportunity**:
+  - This project offers a hands-on introduction to state machines, multiplexing, and digital design principles.
 
 ---
 
@@ -140,13 +143,11 @@ This project is licensed under the [MIT License](./LICENSE). Feel free to use, m
 
 ---
 
-## Additional Notes
+## Credits & Acknowledgments
 
-- **Troubleshooting**:
-  - If the 7-segment display doesn't function correctly, double-check the clock divider and pin mappings.
-  - Ensure the FPGA board is powered and configured correctly.
-- **Learning Opportunity**:
-  - This project offers a hands-on introduction to state machines, multiplexing, and digital design principles.
+- **Developer**: Simran Gahra  
+- Project developed as part of the **ENEL 384 Architecture Design Lab**.
+- Special thanks to the **University of Regina ENEL Labs** for guidance and resources.
 
 ---
 
