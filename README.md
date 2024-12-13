@@ -94,11 +94,11 @@ The **Binary-to-Hexadecimal Game** is an engaging, interactive two-player game d
 
 ## File Structure
 
-- **[`Game.vhd`](./Game.vhd)**:
+- **[`Game.vhd`](./Files/Game.vhd)**:
   - Implements FSM logic for gameplay and state transitions.
-- **[`DisplayOutput.vhd`](./DisplayOutput.vhd)**:
+- **[`DisplayOutput.vhd`](./Files/DisplayOutput.vhd)**:
   - Manages the 7-segment display using multiplexing.
-- **[`Master_Constraint.xdc`](./Master_Constraint.xdc)**:
+- **[`Master_Constraint.xdc`](./Files/Master_Constraint.xdc)**:
   - Defines pin mappings for buttons, switches, and display components.
 
 ---
